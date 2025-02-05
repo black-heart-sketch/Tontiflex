@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792356450992",
+    "project_id": "tontiflex-f4fb5",
+    "storage_bucket": "tontiflex-f4fb5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792356450992:android:32e745f76dcf692b92c175",
+        "android_client_info": {
+          "package_name": "com.example.tontiflex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQNUkf8Sbw86iIYRlMliaDOGWYHyz8a-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
