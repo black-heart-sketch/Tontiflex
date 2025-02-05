@@ -1,16 +1,20 @@
-# tontiflex
+# <img src="https://img.icons8.com/color/48/000000/money-bag-euro.png" width="30"/> Tontiflex - Modern Tontine App
 
-A new Flutter project.
+A revolutionary Flutter-based tontine management application that brings trust and transparency to group savings.
 
-## Getting Started
+## 🌟 Features
+- 🛡️ Secure group savings management
+- 📊 Real-time contribution tracking
+- 🔐 Blockchain-based transparency
+- 📱 Cross-platform availability
+- 🤝 Smart contract enforcement
+- 📈 Investment growth visualization
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK (version 3.0.0 or higher)
+- Dart (version 2.17.0 or higher)
+- Android Studio or VS Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
